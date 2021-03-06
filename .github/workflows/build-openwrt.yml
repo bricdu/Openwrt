@@ -79,9 +79,9 @@ jobs:
               sudo df -h
               make -j$(nproc) || make -j2 || make -j1 V=s
               sudo df -h
-        echo "::set-output name=status::success"
+              echo "::set-output name=status::success"
 
-  
+
 
     - name: Upload bin directory
       uses: actions/upload-artifact@main
