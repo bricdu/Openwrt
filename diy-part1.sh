@@ -3,8 +3,8 @@
 
 # Add Some Package
 
-mkdir -p package/custom
-cd package/custom
+#mkdir -p package/custom
+#cd package/custom
 #git clone https://github.com/coolsnowwolf/packages
 #git clone https://github.com/kenzok8/small
 #git clone https://github.com/kenzok8/openwrt-packages
@@ -17,12 +17,12 @@ cd package/custom
 #git clone https://github.com/rufengsuixing/luci-app-adguardhome
 #git clone https://github.com/pymumu/luci-app-smartdns
 #git clone -b 18.06  https://github.com/jerrykuku/luci-theme-argon
-git clone https://github.com/fw876/helloworld
+#git clone https://github.com/fw876/helloworld
 # luci-theme-infinityfreedom
-git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
-git clone https://github.com/lisaac/luci-app-dockerman.git
-git clone https://github.com/xiaorouji/openwrt-passwall.git
-cd ../../
+#git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git
+#git clone https://github.com/lisaac/luci-app-dockerman.git
+#git clone https://github.com/xiaorouji/openwrt-passwall.git
+#cd ../../
 
 # Modify default IP
 
